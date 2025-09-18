@@ -4,4 +4,12 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+#   Character.create(name: 'Luke', movie: movies.first
+Book.create([
+  { title: "Book One"},
+  { title: "Book Two"},
+  { title: "Book Three"},
+  { title: "Book Four"},
+  { title: "Book Five"}
+])
+
